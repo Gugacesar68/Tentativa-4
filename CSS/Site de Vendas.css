@@ -1,0 +1,22 @@
+
+body{
+background-color:  rgba(206, 201, 201, 0.4);
+}
+
+h1{
+
+}
+
+nav{
+border: solid gray 1px;
+background-color: rgb(180, 180, 180);
+width: 7cm;
+}
+
+a{
+font-size: 14px;
+}
+a:hover{
+color: purple;
+font-size: 20px;
+}
